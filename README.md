@@ -52,7 +52,7 @@ Analyze monthly revenue and order volume from the `online_sales` dataset using S
 
 🔗 Submission This repository contains:
 
-online_sales_query.sql – SQL script used
-Online Sales Data.csv – dataset
-result_screenshot.png – MySQL result table
-README.md – this file
+- online_sales_query.sql – SQL script used
+- Online Sales Data.csv – dataset
+- result_screenshot.png – MySQL result table
+- README.md – this file
